@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+}
+
+.login-container {
+    width: 400px;
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.login-form h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.card-header {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
